@@ -1,0 +1,57 @@
+#title {
+  margin-top: 80px;
+  font-size: 35px;
+}
+
+body {
+  font-family: 'Arvo', serif;
+}
+
+#nazvania {
+  font-size: 18px;
+}
+
+#chisla {
+  font-size: 25px;
+}
+
+#clicker {
+  font-size: 37px;
+  text-decoration: none;
+}
+
+#timeqwe {
+  font-size: 25px;
+}
+
+#vremya {
+  font-size: 55px;
+}
+
+#last {
+  font-size: 16px;
+}
+
+#clicker:hover {
+  font-size: 37px;
+  text-decoration: none;
+}
+
+#clicker:active {
+  font-size: 37px;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+#work {
+  font-size: 35px;
+  width: 350px;
+  margin: 0px auto;
+}
+
+#clicker a {
+  color: white;
+}
